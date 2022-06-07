@@ -4,16 +4,11 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+62 838-2007-3017'],
-  ['+62 878-2765-9529'],
-  ['+62 852-4075-0713']
+  ['+43 650-6665652699'],
+  ['+62 838-4740-5260'],
+  ['+62 812-2231-4374']
 ]
 
-
-
- // ['6283820073017', '436506665652696', '6285240750713']
-
-  // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -49,13 +44,13 @@ global.thumbnailUrl = [
 ]
 
 // Sticker WM
-global.packname = 'WhatsAppCode'
-global.author = ''
+global.packname = 'Yahhh'
+global.author = 'Yuki Altair'
 global.thumb = readFileSync('./me.png')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Ꭱʟxғʟʏ - 2022'
+global.me = 'Cʀᴇᴀᴛᴇᴅ Bʏ Yuki - 00.00'
 global.str = '-------------'
 
 
