@@ -4,14 +4,14 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 
 global.owner = 
  [
-  ['+43 650-6665652699'],
-  ['+62 838-4740-5260'],
-  ['+62 812-2231-4374']
+  ['6281325984505'],
+  ['6281325984505'],
+  ['6281325984505']
 ]
 
 // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = [6281325984505] // Want some help?
+global.prems = [6281325984505] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -44,8 +44,8 @@ global.thumbnailUrl = [
 ]
 
 // Sticker WM
-global.packname = 'Yahhh'
-global.author = 'Yuki Altair'
+global.packname = '©FauzyXD:🇮🇩'
+global.author = 'Nomor Bot:628819514042'
 global.thumb = readFileSync('./me.png')
 global.multiplier = 69 // The higher, The harder levelup
 
